@@ -1,4 +1,4 @@
-# Updated-bulkRNA-seq-pipeline
+# bulk RNA-seq workflow from basecall to modification detection
 Pipeline from basecall -> alignment -> modkit for genome skimming of modifications. Workflow designed for RNA but can easily be applied to DNA (switching alignment and dorado model)
 
 
